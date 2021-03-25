@@ -1,4 +1,4 @@
-### Homework 01: Code Refactor
+### Code Refactor
 
 # Horiseon Website Code Refactor
 

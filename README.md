@@ -24,4 +24,4 @@ To further enhance accessibility, descriptive alt text attributes for images hav
 
 ## Landing Page:
 
-![landing page image](./example/01-html-css-git-homework-demo.png)
+![landing page image](./example/screen-capture.png)

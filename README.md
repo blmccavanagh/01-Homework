@@ -20,7 +20,7 @@ To further enhance accessibility, descriptive alt text attributes for images hav
 
 ## Deployed Application Link:
 
-* https://blmccavanagh.github.io/01-Homework/
+* https://blmccavanagh.github.io/Horiseon-Social-Solution-Services-Code-Refactor/
 
 ## Landing Page:
 
